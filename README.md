@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://github.com/mandjevant">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mandjevant&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" />
+<a href="https://github.com/ManiB2008">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jadijadi&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/ManiB2008">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ManiB2008&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" />
 </a>
