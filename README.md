@@ -46,12 +46,6 @@ My name is Mani Baniami and I am a web developer from Belgrade, Serbia. I do a l
 
 ---
 
-### Github stats
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=alekspopovic&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=0C2233&custom_title=Aleks+Popovic's+GitHub+Stats&show_icons=true" />
-
----
-
 <!-- Languages and Tools Section -->
 <h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
 
@@ -194,10 +188,14 @@ I'm a self-taught programmer with experience in various languages.
   
 ---  
 
-<a href="https://github.com/ManiB2008">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ManiBaniani2008&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" />
-</a>
+### Github stats
 
-<a href="https://github.com/ManiB2008">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ManiB2008&layout=compact&theme=tokyonight" />
-</a>
+<p align="left">
+  <a href="https://github.com/ManiB2008">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ManiBaniani2008&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" />
+  </a>
+  
+  <a href="https://github.com/ManiB2008">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ManiB2008&layout=compact&theme=tokyonight" />
+  </a>
+</p>
