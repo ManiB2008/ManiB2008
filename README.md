@@ -192,7 +192,7 @@ I'm a self-taught programmer with experience in various languages.
 
 <p align="left">
   <a href="https://github.com/ManiB2008">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ManiBaniani2008&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ManiB2008&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" />
   </a>
   
   <a href="https://github.com/ManiB2008">
