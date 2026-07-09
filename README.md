@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Mani Baniami
+# Mani ❤ Open Source
 
 ### Full-Stack Developer • DevOps Engineer • Linux Administrator • Security Enthusiast
 
@@ -166,34 +166,6 @@ A self-hosted infrastructure environment focused on reliability, security, and s
 * Advanced Monitoring
 * Infrastructure Automation
 * Secure System Design
-
----
-
-# 📫 Contact
-
-Email: **[manibaniwni1387@gmail.com](mailto:manibaniwni1387@gmail.com)**
-
----
-
-# 📊 GitHub Status
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ManiB2008&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManiB2008&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com/?user=ManiB2008&theme=tokyonight&hide_border=true" />
-
-</p>
 
 ---
 
