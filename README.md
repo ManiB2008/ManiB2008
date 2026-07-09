@@ -1,107 +1,92 @@
-## Hi there 👋 Welcome to my GitHub profile
+<div align="center">
 
-I'm **Mani Baniami**, a Full-Stack Developer, DevOps enthusiast, Linux administrator, and cybersecurity learner based in Iran.
+# 👋 Hi, I'm Mani Baniami
 
-I build web applications, manage self-hosted infrastructure, and explore secure, scalable systems.
-My main interests are **modern web development, cloud-native technologies, automation, networking, and security**.
+### Full-Stack Developer • DevOps Engineer • Linux & Security Enthusiast
 
-<p>
-    <a href="https://github.com/ManiB2008">
-        <img src="https://komarev.com/ghpvc/?username=ManiB2008&style=flat-square" />
-    </a>
-    <a href="https://github.com/ManiB2008">
-        <img src="https://img.shields.io/github/followers/ManiB2008?style=social" />
-    </a>
+Building scalable web applications, managing Linux infrastructure, and exploring secure cloud-native systems.
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 🖥️ Nexofy Infrastructure
+
+A self-hosted infrastructure environment focused on reliability, automation and security.
+
+**Stack:**
+
+- Ubuntu Server
+- Docker / Docker Compose
+- Nginx Reverse Proxy
+- PostgreSQL
+- Redis
+- MinIO
+- WireGuard
+- Prometheus & Grafana
+- Netdata Monitoring
+
+Focus areas:
+- Infrastructure automation
+- Secure server management
+- Containerized services
+- Production deployment
+
+
+---
+
+# 🧠 Skills Matrix
+
+| Category | Technologies |
+|---|---|
+| Frontend | React, Next.js, TypeScript, JavaScript, TailwindCSS |
+| Backend | Node.js, REST API, Python |
+| Database | PostgreSQL, MongoDB, Redis |
+| DevOps | Docker, Docker Compose, Nginx, Linux |
+| Cloud Native | Kubernetes, CI/CD, Monitoring |
+| Security | Linux Hardening, SSH Security, Networking |
+| Tools | Git, GitHub, VS Code |
+
+---
+
+# ⚙️ CI/CD & Automation
+
+![GitHub Actions](https://github.com/ManiB2008/ManiB2008/actions/workflows/main.yml/badge.svg)
+
+I use automation workflows for:
+- Testing
+- Deployment
+- Code quality checks
+- Infrastructure management
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img 
+src="https://github-readme-stats.vercel.app/api?username=ManiB2008&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&cache_seconds=1800"
+/>
+
 </p>
 
----
 
-## 🚀 What I do
+<p align="center">
 
-* 💻 Full-Stack Web Development
-* 🐧 Linux Server Administration
-* 🐳 Docker & Containerization
-* ⚙️ DevOps & Infrastructure Automation
-* 🔐 Cybersecurity & Secure System Design
-* 🌐 Networking and Self-hosted Services
+<img 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManiB2008&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=1800"
+/>
 
-Currently working with:
-
-* Next.js / React applications
-* Node.js backend services
-* Linux servers and automation
-* Cloud-native technologies
-
----
-
-# 🛠️ Languages
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
 </p>
 
----
 
-# ⚡ Frameworks & Technologies
+<p align="center">
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40"/>
+<img 
+src="https://streak-stats.demolab.com/?user=ManiB2008&theme=tokyonight&hide_border=true"
+/>
+
 </p>
-
----
-
-# 🖥️ Infrastructure & Tools
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-</p>
-
----
-
-# 🔧 Currently exploring
-
-* Kubernetes
-* Cloud Native Architecture
-* Monitoring with Prometheus & Grafana
-* Secure Infrastructure
-* System Automation
-
----
-
-## 📫 Contact
-
-* Email: **[manibaniwni1387@gmail.com](mailto:manibaniwni1387@gmail.com)**
-
----
-
-# 📊 GitHub Stats
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=ManiB2008&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />
-</p>
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManiB2008&layout=compact&hide_border=true&theme=tokyonight" />
-</p>
-
-<p align="left">
-<img src="https://streak-stats.demolab.com?user=ManiB2008&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-⭐ Building, learning, and improving every day.
