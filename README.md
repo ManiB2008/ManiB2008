@@ -66,6 +66,40 @@ A self-hosted infrastructure environment focused on reliability, security, and s
 
 ---
 
+# ✨ Features
+
+<p align="left">
+
+🚀 Building modern full-stack applications with React, Next.js and TypeScript
+
+<br/>
+
+🐳 Designing containerized environments using Docker and Docker Compose
+
+<br/>
+
+🐧 Managing Linux servers with focus on performance, security and reliability
+
+<br/>
+
+🔐 Implementing secure infrastructure with SSH hardening, networking and system protection
+
+<br/>
+
+🌐 Building self-hosted services with reverse proxy, databases and monitoring solutions
+
+<br/>
+
+📊 Monitoring infrastructure using Netdata, Prometheus and Grafana
+
+<br/>
+
+⚙️ Exploring DevOps practices, automation and cloud-native technologies
+
+</p>
+
+---
+
 # 🧠 Skills Matrix
 
 | Category       | Technologies                                      |
@@ -141,23 +175,23 @@ Email: **[manibaniwni1387@gmail.com](mailto:manibaniwni1387@gmail.com)**
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Status
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ManiB2008&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&cache_seconds=1800"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ManiB2008&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManiB2008&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=1800"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManiB2008&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com/?user=ManiB2008&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=ManiB2008&theme=tokyonight&hide_border=true" />
 
 </p>
 
